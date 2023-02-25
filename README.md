@@ -13,5 +13,5 @@ En este reto se demuestran los primeros pasos para la programación, ya que el l
 ![image](https://user-images.githubusercontent.com/124608110/221366344-76963db2-aa17-45cf-a0cc-b41cbb4a2740.png)
 6. Por ultimo utilizaremos el interprete de python integrado en la terminal del sistema, para ello los activaremos escribiendo "python" donde aparte de abrir el interprete nos mostrara la informacion del mismo interprete la cual estará trabajando, y copiamos el codigo escrito en el bloc de notas inical.
 ![image](https://user-images.githubusercontent.com/124608110/221366628-5d8c5285-4a21-4e90-a221-2a79c5cf330f.png)
-No es tan sencillo pero ahi se va
+No es tan sencillo pero ahi se va.
 Psdt: profe que pena hacer ese repo tan tarde, pero pues como dice el dicho, mejor tarde que nunca
